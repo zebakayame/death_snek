@@ -1,6 +1,5 @@
 import pygame, sys, time, random, os
 
-
 DIRECTORY = "/"
 
 tick = 10
